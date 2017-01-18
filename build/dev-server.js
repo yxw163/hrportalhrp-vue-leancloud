@@ -4,7 +4,7 @@ var AV = require('leanengine')
 AV.init({
   appId: 'c2MzVUhRGuRxb8p7Ai40o0wK-MdYXbMMI',
   appKey: 'lG5w5TcNkP3WL5XgzTmOQsUe',
-  masterKey: 'dCrMK8PeD04oQBEziWufSB6G'
+  masterKey: 'Vh9JkohfJVsqV7BVJV62fkLN'
 })
 
 // 如果不希望使用 masterKey 权限，可以将下面一行删除
