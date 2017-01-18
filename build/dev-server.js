@@ -2,8 +2,8 @@
 var AV = require('leanengine')
 
 AV.init({
-  appId: 'Vkryjkq2yGaPSS8qBFCIilOm-MdYXbMMI',
-  appKey: 'gY7Pb4R7DcT5d2fu2B03lMoM',
+  appId: 'c2MzVUhRGuRxb8p7Ai40o0wK-MdYXbMMI',
+  appKey: 'lG5w5TcNkP3WL5XgzTmOQsUe',
   masterKey: 'dCrMK8PeD04oQBEziWufSB6G'
 })
 
